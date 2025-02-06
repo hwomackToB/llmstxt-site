@@ -626,10 +626,10 @@
     {
         "product": "Trail of Bits",
         "website": "https://www.trailofbits.com",
-        "llms-full-txt": "",
+        "llms-full-txt": "https://www.trailofbits.com/llms-full.txt",
         "llms-full-txt-tokens": null,
         "llms-txt": "https://www.trailofbits.com/llms.txt",
-        "llms-txt-tokens": 3427
+        "llms-txt-tokens": 
     },
     {
         "product": "Trigger.dev",
